@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: myGithub
-      path: RjSH1/step_samples
+      path: RjSH1/DOC234
 
 pipelines:
   - name: git_status
